@@ -1,6 +1,6 @@
 name: ffmpeg_kit_flutter
 description: "A maintained version of ffmpeg_kit_flutter for Flutter 3.x and beyond."
-version: 1.0.0
+version: 1.0.1
 
 repository: https://github.com/i-jared/ffmpeg_kit_flutter # Update this to your forked repo
 issue_tracker: https://github.com/i-jared/ffmpeg-kit /issues # Update issue tracker
